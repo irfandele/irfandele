@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @irfandele
-- 👀 I’m interested in programminig
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on doing chatbot
+- 👀 I’m interested in programming
+- 🌱 I have a little bit of skills(trying to improve)in java,C,C++ and python
+- I am interested in web development,android development and game development
+-  
 - 📫 How to reach me -irfanhaneef10@gmail.com
 
 <!---
