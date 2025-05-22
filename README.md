@@ -1,10 +1,10 @@
 # Hi there, I'm Irfan! 👋
 
 ### 👀 About Me
-I'm passionate about **programming** and constantly working to improve my skills. I have experience with Java, C, C++, and Python. My interests span across various domains including web development, Android development, and game development. 
+I'm passionate about **programming** and constantly working to improve my skills. I have experience with Java, C#, C++, and Python. My interests span across various domains including web development, Android development, and game development. 
 
 ### 🌱 Skills and Interests
-- **Languages:** Java, C, C++, Python
+- **Languages:** Java, C#, C++, Python,
 - **Development Areas:**
   - Web Development
   - Android Development
@@ -12,6 +12,7 @@ I'm passionate about **programming** and constantly working to improve my skills
 - **Future Plans:**
   - Deep dive into Data Science
   - Explore Artificial Intelligence (AI)
+  - Cybersecurity
 
 ### 📫 Let's Connect
 Feel free to reach out to me at: [irfanhaneef10@gmail.com](mailto:irfanhaneef10@gmail.com)
